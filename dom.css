@@ -1,0 +1,39 @@
+.box{
+    border:solid 1px red;
+    height:250px;
+    width:250px;
+    margin-top: 30px;   
+}
+.button-box{
+    border:solid 0px red;
+    height:30px;
+    width:300px; 
+    margin-top:20px ;
+}
+#Green{
+    width:55px;
+    margin:auto;
+    height: 30px;
+}
+#Purple{
+    width:55px;
+    margin:auto;
+    height: 30px;
+}
+#Blue{
+    width:55px;
+    margin:auto;
+    height: 30px;
+}
+#Red{
+    width:55px;
+    margin:auto;
+    height: 30px;
+}
+#para{
+    color:green;
+}
+#name{
+    color:green;
+    margin-top:20px;
+}
